@@ -1,8 +1,5 @@
 <div align="center">
   
-
-![](https://komarev.com/ghpvc/?username=mommotti)
-  </div>
 <h1>嗨 Hi there, I'm Matteo 👋</h1>
 
 <p>Welcome to my GitHub profile! I'm a technology and art enthusiast, often experimenting with Raspberry Pis and AI technologies. Feel free to call me by any name you fancy!</p>
@@ -36,5 +33,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=molbo97&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=molbo97&redirect=true)
 
 </div>
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge	)  </div>
 
 ![codewars](https://www.codewars.com/users/mommotti/badges/large)
