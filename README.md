@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1>嗨 Hi there, I'm Matteo 👋</h1>
-
+</div>
 <p>Welcome to my GitHub profile! I'm a technology and art enthusiast, often experimenting with Raspberry Pis and AI technologies. Feel free to call me by any name you fancy!</p>
 
 <h2>🛠️ Technical Skills</h2> 
