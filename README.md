@@ -1,4 +1,3 @@
-<p>We are all compilers and interpreters</p>
 <div align="center">
   
 <h1>嗨 Hi there, I'm Matteo 👋</h1>
@@ -28,7 +27,7 @@
 
 
 <img align='left' src='./TERM.jpg' width='400px'>
-
+<p>We are all compilers and interpreters</p>
 <div align="right">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=molbo97&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=molbo97&redirect=true)
