@@ -25,8 +25,8 @@
 
 <p>I'm always open to collaboration, interesting project ideas, or just a casual chat. Don't hesitate to reach out for any reason!</p>
 
-<div>
 <img align='left' src='./TERM.jpg' width='400px'>
+<div align="left">
 <p>We are all compilers and interpreters</p>
 </div>
 <div align="right">
